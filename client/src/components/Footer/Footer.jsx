@@ -15,7 +15,7 @@ const Footer = () => {
 
         <div className="flexColStart f-right">
           <span className="primaryText">Information</span>
-          <span className="secondaryText">Made by Vineet Vora (21bce8267), Kurmapu Divya (21bce9505), Varun Shetgaonkar (21bce8330)</span>
+          <span className="secondaryText">Made by Vineet Vora (21bce8267), Kurmapu Divya (21bce9505),<br>Varun Shetgaonkar (21bce8330)</br> </span>
           <div className="flexCenter f-menu">
             <span>Property</span>
             <span>Services</span>
